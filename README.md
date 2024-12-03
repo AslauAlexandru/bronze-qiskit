@@ -1,5 +1,7 @@
 ![](qworld/images/readme-logo.jpg)
 
+Originary from GitLab, this is the link [here](https://gitlab.com/qworld/bronze-qiskit).
+
 ## [QWorld](https://qworld.net)'s Bronze-Qiskit
 
 **Bronze** is our introductory tutorial on _**quantum computing and quantum programming**_ created in October 2018.
